@@ -16,4 +16,12 @@ h2{
 
 p{
   font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  color:rgb(57, 146, 255)
+}
+
+h3{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+  color: rgb(0, 13, 255);
 }
